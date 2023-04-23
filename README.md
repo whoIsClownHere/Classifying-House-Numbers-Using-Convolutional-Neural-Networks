@@ -2,6 +2,8 @@
 
 ### [Project Document (RUS)](https://docs.google.com/document/d/1kkRGEOGYcRwY7QXgo4I_ZbVbdXVLwtI1wq2rLlJV1Ls/edit#)
 
+### [All Models](https://github.com/whoIsClownHere/ML-project/blob/main/ML_BAZA_all_models_.ipynb)
+
 ------------
 
 ## Models
